@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myviewmodelsp</string>
+    <string name="btn_add">+</string>
+    <string name="btn_minus">-</string>
+    <string name="data_key">key</string>
+    <string name="sp_name">spName</string>
+</resources>

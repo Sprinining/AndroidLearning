@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Android Studio java home" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calculationtest" />
+            <option value="$PROJECT_DIR$/myactivity1" />
+            <option value="$PROJECT_DIR$/myalterdialog" />
+            <option value="$PROJECT_DIR$/myanim1" />
+            <option value="$PROJECT_DIR$/myanim2" />
+            <option value="$PROJECT_DIR$/myanim3" />
+            <option value="$PROJECT_DIR$/myconstraintlayout" />
+            <option value="$PROJECT_DIR$/mydatabinding" />
+            <option value="$PROJECT_DIR$/myedittext" />
+            <option value="$PROJECT_DIR$/myfragment1" />
+            <option value="$PROJECT_DIR$/myfragment2" />
+            <option value="$PROJECT_DIR$/myfragment3" />
+            <option value="$PROJECT_DIR$/myframelayout" />
+            <option value="$PROJECT_DIR$/myglide" />
+            <option value="$PROJECT_DIR$/mygridlayout" />
+            <option value="$PROJECT_DIR$/mygson" />
+            <option value="$PROJECT_DIR$/myimageview" />
+            <option value="$PROJECT_DIR$/myintent" />
+            <option value="$PROJECT_DIR$/mylayoutparams" />
+            <option value="$PROJECT_DIR$/mylinearlayout" />
+            <option value="$PROJECT_DIR$/mylistview" />
+            <option value="$PROJECT_DIR$/mylivedata" />
+            <option value="$PROJECT_DIR$/mymap" />
+            <option value="$PROJECT_DIR$/mynavigation" />
+            <option value="$PROJECT_DIR$/mynavigation2" />
+            <option value="$PROJECT_DIR$/mynavigation3" />
+            <option value="$PROJECT_DIR$/mynotification" />
+            <option value="$PROJECT_DIR$/myokhttp" />
+            <option value="$PROJECT_DIR$/mypopupwindow" />
+            <option value="$PROJECT_DIR$/myprogressbar" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
+            <option value="$PROJECT_DIR$/myrelativelayout" />
+            <option value="$PROJECT_DIR$/myretrofit" />
+            <option value="$PROJECT_DIR$/myroom" />
+            <option value="$PROJECT_DIR$/myscore" />
+            <option value="$PROJECT_DIR$/mysp" />
+            <option value="$PROJECT_DIR$/mysp2" />
+            <option value="$PROJECT_DIR$/mysp3" />
+            <option value="$PROJECT_DIR$/mysqlite" />
+            <option value="$PROJECT_DIR$/mytablelayout" />
+            <option value="$PROJECT_DIR$/mytoolbar" />
+            <option value="$PROJECT_DIR$/myviewmodel" />
+            <option value="$PROJECT_DIR$/myviewmodelrestore" />
+            <option value="$PROJECT_DIR$/myviewmodelsp" />
+            <option value="$PROJECT_DIR$/myviewpage2" />
+            <option value="$PROJECT_DIR$/myviewpager" />
+            <option value="$PROJECT_DIR$/myviewpager2" />
+            <option value="$PROJECT_DIR$/mywechat" />
+            <option value="$PROJECT_DIR$/rxjava" />
+            <option value="$PROJECT_DIR$/rxjava2" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

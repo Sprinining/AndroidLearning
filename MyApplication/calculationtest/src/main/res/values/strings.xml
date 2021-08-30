@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">calculationtest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_message">Calculation Test</string>
+    <string name="title_btn_message">Start</string>
+    <string name="high_score_message">High Score:%d</string>
+    <string name="current_score">Current Score:%d</string>
+    <string name="input_indicator">Your Answer:</string>
+    <string name="win_score_message">New Record:%d</string>
+    <string name="btn_back_to_title">Back</string>
+    <string name="lose_score_message">Your Score:%d</string>
+    <string name="answer_correct_message">Correct!</string>
+    <string name="quit_dialog_title">Sure to quit?</string>
+    <string name="dialog_positive_message">OK</string>
+    <string name="dialog_negative_message">Cancel</string>
+</resources>

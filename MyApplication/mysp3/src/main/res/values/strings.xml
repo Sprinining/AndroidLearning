@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mysp3</string>
+    <string name="my_data">MY_DATA</string>
+    <string name="my_key">MY_KEY</string>
+</resources>

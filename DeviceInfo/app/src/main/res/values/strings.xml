@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">DeviceInfo</string>
+    <string name="tv_key_message" translatable="false">KEY</string>
+    <string name="tv_value_message" translatable="false">VALUE</string>
+
+    <string name="DeviceWidth">Width(sp): </string>
+    <string name="DeviceHeight">Height(sp):</string>
+    <string name="DeviceManufacturer">Manufacturer:</string>
+    <string name="DeviceProduct">Product:</string>
+    <string name="DeviceBrand">Brand:</string>
+    <string name="DeviceModel">Model:</string>
+    <string name="DeviceBoard">Board:</string>
+    <string name="DeviceDevice">Device:</string>
+    <string name="DeviceFingerprint">Fingerprint:</string>
+    <string name="DeviceHardware">Hardware: </string>
+    <string name="DeviceHost">Host:</string>
+    <string name="DeviceDisplay">Display:</string>
+    <string name="DeviceId">ID:</string>
+    <string name="DeviceUser">User:</string>
+    <string name="DeviceSDK">SDK:</string>
+    <string name="DeviceAndroidVersion">AndroidVersion: </string>
+    <string name="DeviceCurrentLanguage">CurrentLanguage:</string>
+    <string name="DeviceSupportLanguage">SupportLanguage:</string>
+    <string name="DeviceTag">DeviceTag:</string>
+    <string name="DeviceType">DeviceType:</string>
+
+    <string name="AvailableRAM">AvailableRAM:</string>
+    <string name="StorageInfo">StorageInfo:</string>
+    <string name="AndroidID">AndroidID:</string>
+    <string name="RAMInfo">RAM:</string>
+    <string name="ROM">ROM:</string>
+    <string name="SD">SD:</string>
+
+    <string name="BatteryStatus">BatteryStatus:</string>
+    <string name="BatteryHealth">BatteryHealth:</string>
+    <string name="BatteryCurrent">BatteryCurrent:</string>
+    <string name="BatteryTotal">BatteryTotal:</string>
+    <string name="BatteryPlugged">BatteryPlugged:</string>
+    <string name="BatteryVoltage">BatteryVoltage(mV):</string>
+    <string name="BatteryTemperature">BatteryTemperature:</string>
+    <string name="BatteryTechnology">BatteryTechnology:</string>
+    <string name="BatteryPresent">BatteryPresent:</string>
+    <string name="ElapsedRealtime">ElapsedRealtime:</string>
+
+    <string name="MaxCpuFreq">MaxCpuFrequency(kHz):</string>
+    <string name="MinCpuFreq">MinCpuFrequency(kHz):</string>
+    <string name="CurCpuFreq">CurrentCpuFrequency(kHz):</string>
+    <string name="CpuName">CpuName:</string>
+    <string name="CpuABI">CPU_ABI:</string>
+    <string name="CpuABI2">CPU_ABI2:</string>
+    <string name="CpuVender">CpuVender:</string>
+    <string name="CpuFamily">CpuFamily:</string>
+    <string name="CpuModel">Model:</string>
+    <string name="CpuModelName">ModelName:</string>
+    <string name="CpuStepping">Stepping:</string>
+    <string name="CpuCacheSize">CacheSize:</string>
+    <string name="CpuClflushSize">ClflushSize:</string>
+    <string name="Cpucache_alignment">cache_alignment:</string>
+    <string name="CpuPhysicalId">PhysicalId:</string>
+    <string name="CpuSiblings">Siblings:</string>
+    <string name="CpuCores">CpuCores:</string>
+    <string name="Cpufpu">fpu:</string>
+    <string name="Cpufpu_exception">fpu_exception:</string>
+    <string name="Cpuaddress_sizes">address_sizes:</string>
+
+    <string name="tab_tv_device">Device</string>
+    <string name="tab_tv_CPU" translatable="false">CPU</string>
+    <string name="tab_tv_Battery">Battery</string>
+    <string name="tab_tv_Storage">Storage</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myscore</string>
+    <string name="teama">A队</string>
+    <string name="teamb">B队</string>
+</resources>

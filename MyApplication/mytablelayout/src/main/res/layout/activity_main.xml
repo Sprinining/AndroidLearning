@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:shrinkColumns="2"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow>
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_span="2"
+            android:text="按钮0"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_column="3"
+            android:text="按钮1"/>
+    </TableRow>
+
+    <TableRow>
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="按钮0"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="按钮1"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="按钮2"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="按钮3"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="按钮4"/>
+    </TableRow>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="按钮0"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="按钮1"/>
+
+</TableLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myscore</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="ScoreA" translatable="false">0</string>
+    <string name="ScoreB" translatable="false">0</string>
+    <string name="add1" translatable="false">+1</string>
+    <string name="add2" translatable="false">+2</string>
+    <string name="add3" translatable="false">+3</string>
+</resources>
